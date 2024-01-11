@@ -31,5 +31,5 @@ print("미국에 여행을 가고 싶어요\r독일") # 독일에 여행을 가�
 print("Redd\bApple") # 출력 : RedApple
 
 
-# \t 택 역할.
+# \t 탭 역할.
 print("정\t재\t형") # 출력 : 정      재      형
